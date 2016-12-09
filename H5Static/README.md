@@ -197,24 +197,5 @@ module.exports = {
   }
 }  
 ```
-## 结束言
-不知不觉时间又过去，啰嗦一堆堆的，每个项目需求都不一样，配置也会有许不同，也希望更多的朋友分享自己的代码和想法出来哈，也可以一起交流。
-有需要一起交流的可以加我的微信，`amwhuang`，记得备注`技术交流`哈。
-
-首发博客地址：http://lanchenglv.com/article/2016/0826/vue-cli_webpack_multi-page.html
-
-![''](http://lanchenglv.com/article/2016/0826/vue-cli_webpack_multi-page.html)
 
 
-
-
-
-
-
-
-
-
-
-
-
-  [1]: https://github.com/yaoyao1987/vue-cli-multipage
