@@ -14,18 +14,17 @@ webpack
     |---module各个页面模块
         |---personal    个人信息页模块
             |---routers 路由文件
-            |---store 数据操作
             |---views 路由对应的页面
             |---personal.html
             |---personal.js
             |---personal.vue
         |---process    购票流程页模块
             |---routers 路由文件
-            |---store 数据操作
             |---views 路由对应的页面
             |---process.html
             |---process.js
             |---process.vue
+    |---store 公共数据操作和API封装
 |---static
     |---css 公共样式
     |---js 公共js
